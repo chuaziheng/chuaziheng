@@ -1,5 +1,8 @@
 ### Hi there, nice to meet you 👋
 
+<a href="https://www.linkedin.com/in/chuaziheng/">
+  <img align="left" alt="Chua Zi Heng | LinkedIn" width="21px" src="https://raw.githubusercontent.com/chuaziheng/chuaziheng/master/logos/LinkedIn-Logo.png"/>
+</a>
 
 - 🔭 I’m currently working on <code>Violent Activity Recognition</code> and <code> Personal Portfolio Web App </code>
 - 🌱 I’m currently learning <code>Django</code> and <code>React</code>
