@@ -1,5 +1,3 @@
-### Hi there, nice to meet you 👋
-
 <a href="https://www.linkedin.com/in/chuaziheng/">
   <img align="left" alt="Chua Zi Heng | LinkedIn" width="21px" src="https://raw.githubusercontent.com/chuaziheng/chuaziheng/master/logos/LinkedIn-Logo.png"/>
 </a>
